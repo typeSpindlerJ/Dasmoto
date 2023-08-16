@@ -1,1 +1,1 @@
-# Dasmoto's Art & Crafts Project on Codecademy
+# Dasmoto's Art & Crafts Project on Codecademy for GERE program
